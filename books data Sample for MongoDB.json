@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "62e252da8a6cccdf9efd51b1"
+  },
+  "title": "A Mystery Book",
+  "pages": 500,
+  "author": "ali",
+  "rating": 7,
+  "genres": [
+    "Comedy",
+    "Suspense"
+  ],
+  "reviews": [
+    {
+      "name": "abc",
+      "body": "A nice Book"
+    },
+    {
+      "name": "xyz",
+      "body": "Excellent Book"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62e252da8a6cccdf9efd51b2"
+  },
+  "title": "A Golden Book",
+  "pages": 600,
+  "author": "Haris",
+  "genres": [
+    "Treasure",
+    "Action"
+  ],
+  "reviews": [
+    {
+      "name": "abc",
+      "body": "A nice Book"
+    },
+    {
+      "name": "xyz",
+      "body": "Excellent Book"
+    }
+  ],
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "62e252da8a6cccdf9efd51b3"
+  },
+  "title": "Cracking Any Coding Interview",
+  "pages": 900,
+  "rating": 9,
+  "author": "John",
+  "genres": [
+    "Programing",
+    "Teaching",
+    "Sci-fi"
+  ],
+  "reviews": [
+    {
+      "name": "abc",
+      "body": "A nice Book"
+    },
+    {
+      "name": "xyz",
+      "body": "Excellent Book"
+    }
+  ]
+}]
